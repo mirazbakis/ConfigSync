@@ -9,6 +9,9 @@ An on-device iOS application built to generate, preview, and export custom Apple
 * **Native Export:** Export the mobileconfig directly to your Files for downloading.
 * **Device Customizations:** Choose from many tweaks built into ConfigSync.
 
+## Credits 
+[Miraz Bakis](github.com/mirazbakis) - Creator of ConfigSync
+
 ## License
 
 This project is licensed under the MIT License. 
