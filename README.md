@@ -10,7 +10,7 @@ An on-device iOS application built to generate, preview, and export custom Apple
 * **Device Customizations:** Choose from many tweaks built into ConfigSync.
 
 ## Credits 
-[Miraz Bakis](github.com/mirazbakis) - Creator of ConfigSync
+[Miraz Bakis](https://github.com/mirazbakis) - Creator of ConfigSync
 
 ## License
 
